@@ -1,0 +1,114 @@
+﻿{
+    "name": "SAC Dark - Leonardo Karpinski ",
+    "textClasses": {
+        "label": {
+            "color": "#D8E8F7"
+        },
+        "callout": {
+            "color": "#D8E8F7"
+        },
+        "title": {
+            "color": "#D8E8F7",
+            "fontFace": "'Segoe UI Bold', wf_segoe-ui_bold, helvetica, arial, sans-serif",
+            "fontSize": 10
+        },
+        "header": {
+            "color": "#D8E8F7"
+        }
+    },
+    "dataColors": [
+        "#6B32D9",
+        "#30B1FE",
+        "#25D498",
+        "#FF8248",
+        "#FC4B7C",
+        "#FFBF11",
+        "#D8E8F7",
+        "#788189"
+    ],
+    "visualStyles": {
+        "*": {
+            "*": {
+                "visualHeader": [
+                    {
+                        "foreground": {
+                            "solid": {
+                                "color": "#D8E8F7"
+                            }
+                        }
+                    }
+                ],
+                "visualTooltip": [
+                    {
+                        "titleFontColor": {
+                            "solid": {
+                                "color": "#FFFFFF"
+                            }
+                        },
+                        "valueFontColor": {
+                            "solid": {
+                                "color": "#FFFFFF"
+                            }
+                        }
+                    }
+                ],
+                "outspacePane": [
+                    {
+                        "foregroundColor": {
+                            "solid": {
+                                "color": "#D8E8F7"
+                            }
+                        }
+                    }
+                ],
+                "filterCard": [
+                    {
+                        "$id": "Applied",
+                        "foregroundColor": {
+                            "solid": {
+                                "color": "#D8E8F7"
+                            }
+                        }
+                    },
+                    {
+                        "$id": "Available",
+                        "foregroundColor": {
+                            "solid": {
+                                "color": "#D8E8F7"
+                            }
+                        }
+                    }
+                ],
+                "background": [
+                    {
+                        "transparency": 100
+                    }
+                ]
+            }
+        },
+        "page": {
+            "*": {
+                "outspace": [
+                    {
+                        "color": {
+                            "solid": {
+                                "color": "#262B30"
+                            }
+                        }
+                    }
+                ],
+                "background": [
+                    {
+                        "color": {
+                            "solid": {
+                                "color": "#FFFFFF"
+                            }
+                        },
+                        "transparency": 100
+                    }
+                ]
+            }
+        }
+    },
+    "foregroundNeutralSecondary": "#788189"
+}
