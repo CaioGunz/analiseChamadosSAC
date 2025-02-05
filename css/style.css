@@ -84,7 +84,7 @@ h2 {
 }
 
 /* Ajustar cor dos pontos individualmente */
-/* .Lista-item:nth-child(1)::before {
+.Lista-item:nth-child(1)::before {
     color: #6B32D9; 
 } 
 
@@ -99,18 +99,10 @@ h2 {
 .Lista-item:nth-child(4)::before {
     color: #FF8248;
 }  
-.Lista-item:nth-child(4)::before {
+.Lista-item:nth-child(5)::before {
     color: #FC4B7C;
 }  
-.Lista-item:nth-child(4)::before {
-    color: #FFBF11;
-}  
-.Lista-item:nth-child(4)::before {
-    color: #D8E8F7;
-}  
-.Lista-item:nth-child(4)::before {
-    color: #788189;
-}  */
+
 
 /* Regras responsivas */
 @media (max-width: 1200px) {
